@@ -1,6 +1,8 @@
 # VideoOnHover
 
-Video site that brings them to life when hovered
+A video site that brings them to life on hover
+
+Сайт с видео, при наведении которых они оживают
  
 Portfolio-3
 

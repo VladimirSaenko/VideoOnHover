@@ -1,4 +1,6 @@
 # VideoOnHover
+
+Video site that brings them to life when hovered
  
 Portfolio-3
 
